@@ -2,7 +2,7 @@
 Material and source code for the EXTRA-seq manuscript
 
 ## Citation
-Currently in preprint at BioRXiv:
+Currently in preprint at BioRXiv:<br/>
 **EXTRA-seq: a genome-integrated extended massively parallel reporter assay to quantify enhancer-promoter communication**<br/>
 Judith F. Kribelbauer-Swietek,  Vincent Gardeux,  Gerard Llimos-Aubach, Katerina Faltejskova, Julie Russeil, Nadia Grenningloh, Lucas Levassor, Clémence Steiner,  Jiri Vondrasek,  Bart Deplancke<br/>
 DOI: [https://doi.org/10.1101/2024.12.08.627402](https://doi.org/10.1101/2024.12.08.627402)
