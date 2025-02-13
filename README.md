@@ -93,7 +93,7 @@ ii) how we processed downstream predictions to derive summarized predictions sco
 
 ## 3. Processing of short-seqeuncing data
 
-The ([./software/](https://github.com/DeplanckeLab/EXTRA-seq/tree/main/software/EXTRA_seq_data_processing)) directory contains markdown files with code examplifying how to: 
+The ([./software/](https://github.com/DeplanckeLab/EXTRA-seq/tree/main/software/EXTRA_seq_data_processing)) directory contains the EXTRA-seq_data_processing sub directory with markdown files examplifying how to: 
 
 i) count barcodes from genomic DNA and mRNA seqeuncing libraries
 
