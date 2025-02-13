@@ -88,5 +88,6 @@ java -jar ./software/MinionBarcodes-1.0.jar Counter --bam bam/barcode23.nomult.b
 We provide the .yml file to set up a conda environment including all dependencies used to run Enformer on custom seqeunces. Within the ([./software/Enformer/] directory, there are two markdowns that provide example code on 
 
 i) how to run Enformer on genomic seqeunces modified to reflect EXTRA-seq inserted seqeunces &
+
 ii) how we processed downstream predictions to derive summarized predictions scores
 
