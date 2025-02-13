@@ -83,7 +83,7 @@ Then, we used homemade scripts ([./software/MinionBarcodes-1.0.jar](./software/M
 java -jar ./software/MinionBarcodes-1.0.jar Counter --bam bam/barcode23.nomult.bam --config csv/6p0_library_enh_seq_BC_extraction_coordinates_hublib4p75_for_NanoP_alignment_2024_12_02_updated.csv --mapq 0 -o output/barcode23.nomult.tsv >output/barcode23.nomult.log
 ```
 
-### 1.4 running Enformer predictions
+## 2. running Enformer predictions
 
 We provide the .yml file to set up a conda environment including all dependencies used to run Enformer on custom seqeunces. Within the (./software/Enformer/) directory, there are two markdowns that provide example code on 
 
@@ -91,3 +91,12 @@ i) how to run Enformer on genomic seqeunces modified to reflect EXTRA-seq insert
 
 ii) how we processed downstream predictions to derive summarized predictions scores
 
+## 3. Processing of short-seqeuncing data
+
+The ([./software/](https://github.com/DeplanckeLab/EXTRA-seq/tree/main/software/EXTRA_seq_data_processing)) directory contains markdown files with code examplifying how to: 
+
+i) count barcodes from genomic DNA and mRNA seqeuncing libraries
+
+ii) filter BC to genotype maps obtained in step 1
+
+iii) creating mpralm logFC summarized expression values for each genotype
