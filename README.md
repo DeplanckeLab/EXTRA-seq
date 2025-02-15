@@ -91,7 +91,7 @@ i) how to run Enformer on genomic seqeunces modified to reflect EXTRA-seq insert
 
 ii) how we processed downstream predictions to derive summarized predictions scores
 
-## 3. Processing of short-seqeuncing data
+## 3. Processing of short-read seqeuncing data
 
 The ([./software/](https://github.com/DeplanckeLab/EXTRA-seq/tree/main/software/EXTRA_seq_data_processing)) directory contains the EXTRA-seq_data_processing sub directory with markdown files examplifying how to: 
 
